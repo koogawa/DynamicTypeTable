@@ -1,4 +1,4 @@
 DynamicTypeTable
 ================
 
-Dynamic Type Table View
+ツッコミ歓迎です！
